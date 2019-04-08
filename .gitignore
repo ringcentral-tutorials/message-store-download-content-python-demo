@@ -1,0 +1,6 @@
+# Content
+content/
+
+# dotenv environment variables file
+environment/.env-sandbox
+environment/.env-production
